@@ -13,4 +13,6 @@ Observe the magnetic field integrity and polarity in the air with the 3144E Hall
 - **[kutluhanaktar.com](https://www.kutluhanaktar.com/projects/The_Magnetic_Field_and_RGB_Tester/)**
 - **[Hackster](https://www.hackster.io/kutluhan-aktar/the-magnetic-field-and-rgb-tester-b2181d)**
 
+![4](https://github.com/user-attachments/assets/a7a870a0-a959-4ecd-9601-7a156f929875)
+
 ![7](https://github.com/user-attachments/assets/b5cdd8ba-923b-4594-8a36-9cb2193b7308)
